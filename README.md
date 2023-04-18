@@ -5,7 +5,7 @@ This is a responsive website, with dynamically structure. In this project used m
 
 # Table of Contents
 
-- [Landing page](#landingPage)
+- [Landing page](#landing-page)
 - [Quickstart/Demo](#quickstartdemo)
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
