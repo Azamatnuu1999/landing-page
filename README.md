@@ -1,4 +1,4 @@
-# Landing Page
+# Landing Page  
 
 # Quickstart/Demo
 This is a responsive website, with dynamically structure. In this project used methods like: getBouncingClientRect(), onScroll(), appendChild() and so on. Project was mainly for how to works DOM and browser events. This project is very helpful who want to refresh or learn new things.
